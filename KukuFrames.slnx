@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/KukuFrames.Application/KukuFrames.Application.csproj" />
+    <Project Path="src/KukuFrames.Domain/KukuFrames.Domain.csproj" />
+    <Project Path="src/KukuFrames.Infrastructure/KukuFrames.Infrastructure.csproj" />
+    <Project Path="src/KukuFrames.Web/KukuFrames.Web.csproj" />
+  </Folder>
+</Solution>

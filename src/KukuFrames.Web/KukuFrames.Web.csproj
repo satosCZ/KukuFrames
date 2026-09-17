@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\KukuFrames.Application\KukuFrames.Application.csproj" />
+    <ProjectReference Include="..\KukuFrames.Infrastructure\KukuFrames.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>d6a286b0-c18f-4538-8d15-1fbd0a0497f4</UserSecretsId>
+  </PropertyGroup>
+
+</Project>
